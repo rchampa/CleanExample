@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PresentationCleanExample/PresentationCleanExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DataCleanExample/DataCleanExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DomainCleanExample/DomainCleanExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CleanExample.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
